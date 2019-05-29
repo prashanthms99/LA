@@ -1,2 +1,2 @@
 # LA
-Linear Algebra
+Linear Algebra Notebooks
